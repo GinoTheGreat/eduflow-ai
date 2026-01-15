@@ -36,7 +36,7 @@ firebase-admin==6.4.0
 apscheduler==3.10.4
 
 # Utilities
-pydantic==2.5.3
+pydantic=>=2.10.0
 pydantic-settings==2.1.0
 aiofiles==23.2.1
 
